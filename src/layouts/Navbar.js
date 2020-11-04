@@ -19,10 +19,10 @@ import logo from './logo.gif';
         <Link className="nav-link" to="/">Home<span className="sr-only">(current)</span></Link>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" to="/">About<span className="sr-only">(current)</span></Link>
+        <Link className="nav-link" to="/about">About<span className="sr-only">(current)</span></Link>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" to="/">Contact<span className="sr-only">(current)</span></Link>
+        <Link className="nav-link" to="/contact">Contact<span className="sr-only">(current)</span></Link>
       </li>
     </ul>
   </div>
