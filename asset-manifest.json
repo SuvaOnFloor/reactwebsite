@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/reactwebsite/static/css/main.d3a6d5e3.chunk.css",
-    "main.js": "/reactwebsite/static/js/main.71e82d0a.chunk.js",
-    "main.js.map": "/reactwebsite/static/js/main.71e82d0a.chunk.js.map",
-    "runtime-main.js": "/reactwebsite/static/js/runtime-main.d56ac9eb.js",
-    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.d56ac9eb.js.map",
+    "main.js": "/reactwebsite/static/js/main.f795bbe9.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.f795bbe9.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.509f3a92.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.509f3a92.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/reactwebsite/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.d0e8487c.chunk.js": "/reactwebsite/static/js/2.d0e8487c.chunk.js",
-    "static/js/2.d0e8487c.chunk.js.map": "/reactwebsite/static/js/2.d0e8487c.chunk.js.map",
-    "static/js/3.7364bf6c.chunk.js": "/reactwebsite/static/js/3.7364bf6c.chunk.js",
-    "static/js/3.7364bf6c.chunk.js.map": "/reactwebsite/static/js/3.7364bf6c.chunk.js.map",
+    "static/js/2.8e8dc2d1.chunk.js": "/reactwebsite/static/js/2.8e8dc2d1.chunk.js",
+    "static/js/2.8e8dc2d1.chunk.js.map": "/reactwebsite/static/js/2.8e8dc2d1.chunk.js.map",
+    "static/js/3.ca2f9440.chunk.js": "/reactwebsite/static/js/3.ca2f9440.chunk.js",
+    "static/js/3.ca2f9440.chunk.js.map": "/reactwebsite/static/js/3.ca2f9440.chunk.js.map",
     "index.html": "/reactwebsite/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/reactwebsite/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.d3a6d5e3.chunk.css.map": "/reactwebsite/static/css/main.d3a6d5e3.chunk.css.map",
-    "static/js/2.d0e8487c.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.d0e8487c.chunk.js.LICENSE.txt",
+    "static/js/2.8e8dc2d1.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.8e8dc2d1.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/reactwebsite/static/media/logo.103b5fa1.svg",
     "static/media/logo.8ead2778.gif": "/reactwebsite/static/media/logo.8ead2778.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d56ac9eb.js",
+    "static/js/runtime-main.509f3a92.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.d0e8487c.chunk.js",
+    "static/js/2.8e8dc2d1.chunk.js",
     "static/css/main.d3a6d5e3.chunk.css",
-    "static/js/main.71e82d0a.chunk.js"
+    "static/js/main.f795bbe9.chunk.js"
   ]
 }
